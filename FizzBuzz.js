@@ -1,4 +1,4 @@
-// #413 Fizz Buzz - Easy
+// #412 Fizz Buzz - Easy
 
 /**
  * @param {number} n
